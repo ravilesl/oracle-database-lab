@@ -5,3 +5,5 @@ testing, change management and Git workflows.
 
 Name: ESCRIBE TU NOMBRE
 Professor: Richard Aviles Lopez
+
+See CONTRIBUTING.md for branch and commit conventions.
